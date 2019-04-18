@@ -1,0 +1,9 @@
+<?php
+$title = "Privacy Policy";
+require("Common/header.php");
+?>
+	<p>Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.Privacy Policy.</p>
+
+ <?php
+require("Common/footer.php");
+?>
